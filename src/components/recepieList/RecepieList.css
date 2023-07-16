@@ -1,0 +1,15 @@
+.controlBtn {
+  position: fixed;
+  bottom: 12px;
+  border: none;
+}
+
+.delete {
+  background-color: palevioletred;
+  left: 52%;
+}
+
+.deselect {
+  background-color: antiquewhite;
+  right: 52%;
+}
