@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/airo/static/css/main.c5ee4e65.css",
-    "main.js": "/airo/static/js/main.0b65ada0.js",
+    "main.js": "/airo/static/js/main.503b20fb.js",
     "static/css/945.564c1404.chunk.css": "/airo/static/css/945.564c1404.chunk.css",
-    "static/js/945.21d7d95a.chunk.js": "/airo/static/js/945.21d7d95a.chunk.js",
+    "static/js/945.b6bd35dc.chunk.js": "/airo/static/js/945.b6bd35dc.chunk.js",
     "static/css/539.d2f0b368.chunk.css": "/airo/static/css/539.d2f0b368.chunk.css",
-    "static/js/539.b1bfb724.chunk.js": "/airo/static/js/539.b1bfb724.chunk.js",
-    "static/js/651.6fe21469.chunk.js": "/airo/static/js/651.6fe21469.chunk.js",
+    "static/js/539.a0a070e0.chunk.js": "/airo/static/js/539.a0a070e0.chunk.js",
+    "static/js/651.fc49ebf5.chunk.js": "/airo/static/js/651.fc49ebf5.chunk.js",
     "index.html": "/airo/index.html",
     "main.c5ee4e65.css.map": "/airo/static/css/main.c5ee4e65.css.map",
-    "main.0b65ada0.js.map": "/airo/static/js/main.0b65ada0.js.map",
+    "main.503b20fb.js.map": "/airo/static/js/main.503b20fb.js.map",
     "945.564c1404.chunk.css.map": "/airo/static/css/945.564c1404.chunk.css.map",
-    "945.21d7d95a.chunk.js.map": "/airo/static/js/945.21d7d95a.chunk.js.map",
+    "945.b6bd35dc.chunk.js.map": "/airo/static/js/945.b6bd35dc.chunk.js.map",
     "539.d2f0b368.chunk.css.map": "/airo/static/css/539.d2f0b368.chunk.css.map",
-    "539.b1bfb724.chunk.js.map": "/airo/static/js/539.b1bfb724.chunk.js.map",
-    "651.6fe21469.chunk.js.map": "/airo/static/js/651.6fe21469.chunk.js.map"
+    "539.a0a070e0.chunk.js.map": "/airo/static/js/539.a0a070e0.chunk.js.map",
+    "651.fc49ebf5.chunk.js.map": "/airo/static/js/651.fc49ebf5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c5ee4e65.css",
-    "static/js/main.0b65ada0.js"
+    "static/js/main.503b20fb.js"
   ]
 }
