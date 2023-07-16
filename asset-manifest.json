@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/airo/static/css/main.073c9b0a.css",
+    "main.js": "/airo/static/js/main.1c5125e8.js",
+    "static/js/787.f7fac115.chunk.js": "/airo/static/js/787.f7fac115.chunk.js",
+    "static/media/logo.svg": "/airo/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/airo/index.html",
+    "main.073c9b0a.css.map": "/airo/static/css/main.073c9b0a.css.map",
+    "main.1c5125e8.js.map": "/airo/static/js/main.1c5125e8.js.map",
+    "787.f7fac115.chunk.js.map": "/airo/static/js/787.f7fac115.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.1c5125e8.js"
+  ]
+}
