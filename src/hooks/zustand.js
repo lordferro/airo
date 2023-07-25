@@ -1,7 +1,8 @@
 import { create } from "zustand";
+import { devtools } from "zustand/middleware";
 import axios from "axios";
 
-export const useRecepieStore = create((set, get) => ({
+export const useRecepieStore = create(devtools((set, get) => ({
   recepies: [],
   checked: [],
   page: 1,
@@ -23,4 +24,4 @@ export const useRecepieStore = create((set, get) => ({
     );
     set({ recepies: [...get().recepies, ...data] });
   },
-}));
+})));
